@@ -26,7 +26,7 @@ To begin using alphapept:
 
 ## Looking Ahead
 
-We plan to further integrate alphapept with the broader scientific Python ecosystem, including tools like scverse. We are also expanding our outreach efforts, improving training resources, and supporting new developments in proteomics technologies, including emerging scan modes and instruments. We aim to provide long-term support for all available tools.
+We plan to further integrate alphapept with the broader scientific Python ecosystem, including adjacent ecosystems like the scverse. We are also expanding our outreach efforts, improving training resources, and supporting new developments in proteomics technologies, including emerging scan modes and instruments. We aim to provide long-term support for key tools and data structures.
 
 🎉 **Join us in creating an open ecosystem for the performant, scalable, and robust analysis of modern proteomics data**.
 
