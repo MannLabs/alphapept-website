@@ -147,7 +147,7 @@ Explore available packages, and checkout **installation instructions**, **tutori
 {{< feature-card 
     title="alphamap" 
     url="https://github.com/MannLabs/alphamap.git"
-    description="Browser-based interactive visualization of processed mass spectrometry data from Bruker instruments"
+    description="Visual annotation of proteomics data with sequence specific knowledge"
     github="https://github.com/MannLabs/alphamap.git"
     docs="https://mannlabs.github.io/alphamap/"
     doi="https://doi.org/10.1093/bioinformatics/btab674"
