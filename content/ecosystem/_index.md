@@ -138,7 +138,7 @@ Explore available packages, and checkout **installation instructions**, **tutori
 
 {{< feature-card 
     title="alphaviz" 
-    url="https://github.com/MannLabs/alphaviz.git"
+    url="/ecosystem/packages/alphaviz"
     description="Browser-based interactive visualization of processed mass spectrometry data from Bruker instruments"
     github="https://github.com/MannLabs/alphaviz.git"
     doi="https://doi.org/10.1101/2022.07.12.499676"
