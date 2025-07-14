@@ -146,7 +146,7 @@ Explore available packages, and checkout **installation instructions**, **tutori
 
 {{< feature-card 
     title="alphamap" 
-    url="https://github.com/MannLabs/alphamap.git"
+    url="/ecosystem/packages/alphamap"
     description="Visual annotation of proteomics data with sequence specific knowledge"
     github="https://github.com/MannLabs/alphamap.git"
     docs="https://mannlabs.github.io/alphamap/"
