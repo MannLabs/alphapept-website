@@ -37,7 +37,7 @@ Explore available packages, and checkout **installation instructions**, **tutori
 {{< feature-card 
     title="alphapept" 
     icon="images/ecosystem/alphapept-package.png"
-    url="https://github.com/MannLabs/alphapept.git"
+    url="/ecosystem/packages/alphapept"
     description="An open search engine for data-dependent acquisition (DDA) experiments" 
     github="https://github.com/MannLabs/alphapept.git"
     docs="https://mannlabs.github.io/alphapept/"
