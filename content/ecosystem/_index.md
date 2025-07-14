@@ -101,7 +101,7 @@ Explore available packages, and checkout **installation instructions**, **tutori
 
 {{< feature-card 
     title="alphatims" 
-    url="https://github.com/MannLabs/alphatims.git"
+    url="/ecosystem/packages/alphatims"
     description="Access and visualize LC-TIMS-Q-TOF data" 
     github="https://github.com/MannLabs/alphatims.git"
     doi="https://doi.org/10.1016/j.mcpro.2021.100149"
