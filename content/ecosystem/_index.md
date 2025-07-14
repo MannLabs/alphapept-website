@@ -83,7 +83,7 @@ Explore available packages, and checkout **installation instructions**, **tutori
 {{< feature-card 
     title="alphapeptdeep" 
     icon="images/ecosystem/alphapeptdeep.png"
-    url="https://github.com/MannLabs/alphapeptdeep.git"
+    url="/ecosystem/packages/alphapeptdeep"
     description="Modular Deep learning for shotgun proteomics" 
     github="https://github.com/MannLabs/alphapeptdeep.git"
     docs="https://alphapeptdeep.readthedocs.io/en/latest/"
