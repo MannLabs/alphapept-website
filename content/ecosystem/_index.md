@@ -47,7 +47,7 @@ Explore available packages, and checkout **installation instructions**, **tutori
 
 {{< feature-card 
     title="directLFQ" 
-    url="https://github.com/MannLabs/directlfq"
+    url="/ecosystem/packages/directlfq"
     description="Label-free quantification for accurate protein abundance measurements" 
     github="https://github.com/MannLabs/directlfq"
     doi="https://doi.org/10.1016/j.mcpro.2023.100581"
