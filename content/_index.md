@@ -21,6 +21,7 @@ The **alphapept ecosystem** is an integrated ecoysystem of state-of-the-art scie
     github="https://github.com/MannLabs/alphadia.git" 
     docs="https://alphadia.readthedocs.io/en/latest/"
     doi="https://doi.org/10.1101/2024.05.28.596182"
+    docker="https://hub.docker.com/r/mannlabs/alphadia"
 >}}
 
 {{< feature-card 
@@ -48,6 +49,7 @@ The **alphapept ecosystem** is an integrated ecoysystem of state-of-the-art scie
     description="Accurate and sensitive peptide and protein quantification with trees"
     github="https://github.com/MannLabs/alphaquant.git"
     doi="https://doi.org/10.1101/2025.03.06.641844"
+    docker="https://hub.docker.com/r/mannlabs/alphaquant"
 >}}
 {{< /card-grid >}}
 

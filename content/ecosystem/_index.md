@@ -32,6 +32,7 @@ Explore available packages, and checkout **installation instructions**, **tutori
     github="https://github.com/MannLabs/alphadia.git" 
     docs="https://alphadia.readthedocs.io/en/latest/"
     doi="https://doi.org/10.1101/2024.05.28.596182"
+    docker="https://hub.docker.com/r/mannlabs/alphadia"
 >}}
 
 {{< feature-card 
@@ -60,6 +61,7 @@ Explore available packages, and checkout **installation instructions**, **tutori
     description="Accurate and sensitive peptide and protein quantification with trees"
     github="https://github.com/MannLabs/alphaquant.git"
     doi="https://doi.org/10.1101/2025.03.06.641844"
+    docker="https://hub.docker.com/r/mannlabs/alphaquant"
 >}}
 
 {{< feature-card 
@@ -69,6 +71,7 @@ Explore available packages, and checkout **installation instructions**, **tutori
     github="https://github.com/MannLabs/alphapeptstats.git"
     docs="https://alphapeptstats.readthedocs.io/en/latest/"
     doi="https://alphapeptstats.readthedocs.io/en/latest/"
+    docker="https://hub.docker.com/r/mannlabs/alphastats"
 >}}
 
 {{< feature-card 
