@@ -7,7 +7,7 @@ This repository contains the source code for the alphapept proteomics software e
 
 ## Live Site
 
-_To be announced_
+Check out [alphapept.org](https://alphapept.org)!
 
 ## Site Structure
 
@@ -41,8 +41,8 @@ content/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/alphapept-team/alphaX-website.git
-   cd alphaX-website
+   git clone https://github.com/MannLabs/alphapept-website.git
+   cd alphapept-website
    ```
 
 2. **Initialize the theme submodule:**
