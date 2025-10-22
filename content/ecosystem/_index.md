@@ -31,7 +31,7 @@ Explore available packages, and checkout **installation instructions**, **tutori
     description="An open search engine for data-independent acquisition (DIA) experiments" 
     github="https://github.com/MannLabs/alphadia.git" 
     docs="https://alphadia.readthedocs.io/en/latest/"
-    doi="https://doi.org/10.1101/2024.05.28.596182"
+    doi="https://doi.org/10.1038/s41587-025-02791-w"
 >}}
 
 {{< feature-card 
