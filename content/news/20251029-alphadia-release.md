@@ -5,7 +5,7 @@ description: "AlphaDIA our free, open, and performant DIA search engine is now p
 tags: ["announcement", "publication", "alphadia"]
 ---
 
-We’re excited to share the publication of alphaDIA in [Nature Biotechnology](https://doi.org/10.1038/s41587-025-02791-w). alphaDIA is a modern, open-source search engine that brings deep learning directly to raw mass spectrometry data for data-independent acquisition (DIA) proteomics.
+We’re excited to share the publication of [alphaDIA](https://alphadia.readthedocs.io/en/latest/) in [Nature Biotechnology](https://doi.org/10.1038/s41587-025-02791-w). alphaDIA is a modern, open-source search engine that brings deep learning directly to raw mass spectrometry data for data-independent acquisition (DIA) proteomics.
 
 ## A search engine for modern DIA proteomics
 Mass spectrometry-based proteomics continues to generate increasingly complex datasets, especially with new, high-speed time-of-flight (TOF) detectors and advanced acquisition modes. alphaDIA addresses this complexity head-on through a feature-free processing approach, applying machine learning directly on the raw signal instead of relying on peak detection or data reduction. This enables robust analysis even for highly noisy TOF data, ensuring that all information contributes to peptide identification.
