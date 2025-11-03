@@ -1,0 +1,33 @@
+<div class="figure-caption">
+  <div class="figure-image">
+    <img src="{{ .Get "image" | default "images/placeholder/person.svg" | absURL
+    }}" alt="{{ .Get "name" }}">
+  </div>
+  {{ with .Get "caption" }}
+  <div class="figure-text">
+    <p>{{ . | markdownify }}</p>
+  </div>
+  {{ end }}
+</div>
+
+<style>
+  .figure-caption {
+    text-align: left;
+    font-size: 0.9em; /* slightly smaller text */
+    margin: 1.5em 0; /* space around figure */
+  }
+
+  .figure-img {
+    max-width: 80%;
+    height: auto;
+    display: block;
+    margin: 0 auto; /* center the image */
+    border-radius: 4px; /* optional: subtle rounding */
+  }
+
+  .figure-text {
+    font-size: 0.85em; /* smaller caption text */
+    color: #555; /* optional: softer color */
+    margin-top: 0.5em;
+  }
+</style>
