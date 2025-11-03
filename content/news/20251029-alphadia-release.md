@@ -1,6 +1,6 @@
 ---
 title: "AlphaDIA published in Nature Biotechnology"
-date: 2025-07-01T10:00:00Z
+date: 2025-10-21T10:00:00Z
 description: "AlphaDIA our free, open, and performant DIA search engine is now peer-reviewed and published in Nature Biotechnology"
 tags: ["announcement", "publication", "alphadia"]
 ---
