@@ -7,7 +7,7 @@ This repository contains the source code for the alphapept proteomics software e
 
 ## Live Site
 
-Check out [alphapept.org](https://alphapept.org)!
+[alphapept.org](https://alphapept.org/)
 
 ## Site Structure
 
