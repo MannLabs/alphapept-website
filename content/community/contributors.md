@@ -38,7 +38,7 @@ _Alphabetical order_
 {{< contributor-alumni-card name="Maximilian Strauss" packages="alphapept, Clinical Knowledge Graph" github="straussmaximilian" >}}
 {{< contributor-alumni-card name="Alberto Santos" packages="Clinical Knowledge Graph" github="albsantosdel" >}}
 {{< contributor-alumni-card name="Julia Schessner" packages="alphapeptstats" github="JuliaS92" >}}
-{{< contributor-card name="Patricia Skowronek" packages="pydiad, Proteomics Lab Agent" github="PatriciaSkowronek" >}}
+{{< contributor-alumni-card name="Patricia Skowronek" packages="pydiad, Proteomics Lab Agent" github="PatriciaSkowronek" >}}
 {{< contributor-alumni-card name="Eugenia Voytik" packages="alphamap, alphaviz" github="EugeniaVoytik" >}}
 {{< contributor-alumni-card name="Sander Willems" packages="alphatims" github="swillems" >}}
 {{< contributor-alumni-card name="Wen-Feng Zeng" packages="alphapeptdeep, alphabase, alphaDIA" github="jalew188" >}}
