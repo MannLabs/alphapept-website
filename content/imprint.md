@@ -67,9 +67,39 @@ The respective provider shall be responsible for the contents of any linked exte
 
 
 ## Copyright 
-The layout, graphics employed and any other contents on the Internet site of the Max Planck Society are protected by copyright law.
+The layout, graphics employed and any other contents on the Internet site of the Max Planck Society are protected by copyright law, and/or used under license.
 
 > © Max-Planck-Gesellschaft zur Förderung der Wissenschaften e.V. Munich. All rights reserved.
+
+## Licenses 
+The following items are used under license:
+
+`docker.svg`
+
+```
+Docker SVG from SVG Repo
+Copyright (c) Kenan Gundogan
+Licensed under MIT License
+MIT License
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
 
 ## Technical Manager / Contact 
 > Mario Oroshi \
