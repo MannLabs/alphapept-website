@@ -8,9 +8,7 @@ We welcome researchers and developers who want to contribute to the growth of th
 ## How to Get Involved
 
 Explore our repositories on [GitHub](https://github.com/MannLabs)
-* Start contributing by picking a task labeled good first issue
-* Get in touch if you'd like guidance or have ideas to share
-* Checkout our [community guidelines](/community/guidelines)
 
-
-
+- Start contributing by picking a task labeled good first issue
+- Get in touch if you'd like guidance or have ideas to share
+- Checkout our [community guidelines](/community/guidelines) and our [contributor license agreement](https://github.com/MannLabs/.github/blob/main/CLA.md)
