@@ -125,6 +125,7 @@ Explore available packages, and checkout **installation instructions**, **tutori
 
 {{< feature-card 
     title="dvp-io" 
+    icon="images/ecosystem/dvp-io.svg"
     url="https://github.com/lucas-diedrich/dvp-io.git"
     description="Read and write funtionalities for deep visual proteomics data"
     github="https://github.com/lucas-diedrich/dvp-io.git"
