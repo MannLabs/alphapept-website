@@ -56,6 +56,15 @@ Explore available packages, and checkout **installation instructions**, **tutori
 >}}
 
 {{< feature-card 
+    title="alphapepttools" 
+    icon="images/ecosystem/alphapepttools.svg"
+    url="https://github.com/MannLabs/alphapepttools.git" 
+    description="Search- and quantification-engine agnostic biological interpretation of proteomics data" 
+    github="https://github.com/MannLabs/alphapepttools.git" 
+    docs="https://mannlabs.github.io/alphapepttools/"
+>}}
+
+{{< feature-card 
     title="alphaquant" 
     url="https://github.com/MannLabs/alphaquant.git"
     description="Accurate and sensitive peptide and protein quantification with trees"
