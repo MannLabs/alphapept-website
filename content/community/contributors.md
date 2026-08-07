@@ -15,6 +15,7 @@ _Alphabetical order_
 
 {{< contributor-card name="Vincenth Brennsteiner" image="" focus="Plasma- + Chemoproteomics" github="vbrennsteiner">}}
 {{< contributor-card name="Lucas Diedrich" image="" focus="Spatial Proteomics" github="lucas-diedrich" >}}
+{{< contributor-card name="Tomáš Jelínek" image="" focus="Structural Proteomics" github="Desperadus" >}}
 {{< contributor-card name="Mikhail Lebedev" image="" focus="Deep Learning + De Novo Proteomics" github="boopthesnoot" >}}
 {{< contributor-card name="Mohamed Sameh" image="" focus="Search" github="mo-sameh" >}}
 {{< contributor-card name="Magnus Schwörer" image="" focus="Software Engineering" github="mschwoer" >}}
