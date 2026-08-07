@@ -19,7 +19,6 @@ _Alphabetical order_
 {{< contributor-card name="Mikhail Lebedev" image="" focus="Deep Learning + De Novo Proteomics" github="boopthesnoot" >}}
 {{< contributor-card name="Mohamed Sameh" image="" focus="Search" github="mo-sameh" >}}
 {{< contributor-card name="Magnus Schwörer" image="" focus="Software Engineering" github="mschwoer" >}}
-{{< contributor-card name="Tung Vu" image="" focus="Quantification" github="vuductung" >}}
 {{< contributor-card name="Georg Wallmann" image="" focus="Search" github="GeorgWa" >}}
 
 {{</card-grid>}}
@@ -41,6 +40,7 @@ _Alphabetical order_
 {{< contributor-alumni-card name="Julia Schessner" packages="alphapeptstats" github="JuliaS92" >}}
 {{< contributor-alumni-card name="Patricia Skowronek" packages="pydiaid, Proteomics Lab Agent" github="PatriciaSkowronek" >}}
 {{< contributor-alumni-card name="Eugenia Voytik" packages="alphamap, alphaviz" github="EugeniaVoytik" >}}
+{{< contributor-alumni-card name="Tung Vu" image="" focus="Quantification" github="vuductung" >}}
 {{< contributor-alumni-card name="Sander Willems" packages="alphatims" github="swillems" >}}
 {{< contributor-alumni-card name="Wen-Feng Zeng" packages="alphapeptdeep, alphabase, alphaDIA" github="jalew188" >}}
 {{< contributor-alumni-card name="Xie-Xuan Zhou" packages="alphapeptdeep" github="zhouxiexuan">}}
