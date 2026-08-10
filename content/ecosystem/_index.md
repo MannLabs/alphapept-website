@@ -38,7 +38,7 @@ Explore available packages, and checkout **installation instructions**, **tutori
 {{< feature-card 
     title="alphapept" 
     icon="images/ecosystem/alphapept-package.png"
-    url="https://github.com/MannLabs/alphapept.git"
+    url="/ecosystem/packages/alphapept"
     description="An open search engine for data-dependent acquisition (DDA) experiments" 
     github="https://github.com/MannLabs/alphapept.git"
     docs="https://mannlabs.github.io/alphapept/"
@@ -48,7 +48,7 @@ Explore available packages, and checkout **installation instructions**, **tutori
 
 {{< feature-card 
     title="directLFQ" 
-    url="https://github.com/MannLabs/directlfq"
+    url="/ecosystem/packages/directlfq"
     description="Label-free quantification for accurate protein abundance measurements" 
     github="https://github.com/MannLabs/directlfq"
     doi="https://doi.org/10.1016/j.mcpro.2023.100581"
@@ -95,7 +95,7 @@ Explore available packages, and checkout **installation instructions**, **tutori
 {{< feature-card 
     title="alphapeptdeep" 
     icon="images/ecosystem/alphapeptdeep.png"
-    url="https://github.com/MannLabs/alphapeptdeep.git"
+    url="/ecosystem/packages/alphapeptdeep"
     description="Modular Deep learning for shotgun proteomics" 
     github="https://github.com/MannLabs/alphapeptdeep.git"
     docs="https://alphapeptdeep.readthedocs.io/en/latest/"
@@ -114,7 +114,7 @@ Explore available packages, and checkout **installation instructions**, **tutori
 
 {{< feature-card 
     title="alphatims" 
-    url="https://github.com/MannLabs/alphatims.git"
+    url="/ecosystem/packages/alphatims"
     description="Access and visualize LC-TIMS-Q-TOF data" 
     github="https://github.com/MannLabs/alphatims.git"
     doi="https://doi.org/10.1016/j.mcpro.2021.100149"
@@ -153,7 +153,7 @@ Explore available packages, and checkout **installation instructions**, **tutori
 
 {{< feature-card 
     title="alphaviz" 
-    url="https://github.com/MannLabs/alphaviz.git"
+    url="/ecosystem/packages/alphaviz"
     description="Browser-based interactive visualization of processed mass spectrometry data from Bruker instruments"
     github="https://github.com/MannLabs/alphaviz.git"
     doi="https://doi.org/10.1101/2022.07.12.499676"
@@ -161,7 +161,7 @@ Explore available packages, and checkout **installation instructions**, **tutori
 
 {{< feature-card 
     title="alphamap" 
-    url="https://github.com/MannLabs/alphamap.git"
+    url="/ecosystem/packages/alphamap"
     description="Visual annotation of proteomics data with sequence specific knowledge"
     github="https://github.com/MannLabs/alphamap.git"
     docs="https://mannlabs.github.io/alphamap/"
